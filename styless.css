@@ -1,0 +1,39 @@
+
+
+
+
+#title{
+	text-align:center;
+	font-size:36px;
+	font-family:Guttman Mantova-Decor;
+    color:#006699;
+    text-shadow:2px 2px 4px rgba(0, 0, 0, 0.3);
+	background:white;
+  
+}
+  
+ p{ 
+	color:white;
+	font-weight:bold;
+ }
+
+body{
+	font-size:18;
+	font:bold;
+	text-align:right;
+    unicode-bidi:bidi-override;
+    direction:rtl;
+	font-family:Arial;
+
+	background-image:url("imagess/56.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+	box-shadow:0 0 20px rgba(0, 0, 0, 0.5);
+    
+}
+
+img{
+	height:100px;
+	border:black;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5)
+}
